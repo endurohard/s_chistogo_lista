@@ -93,6 +93,10 @@ blockquote {
     line-height: 1;
 }
 
+#my_li {
+    list-style-type: none
+}
+
 .accent-span {
     display: block;
 }
