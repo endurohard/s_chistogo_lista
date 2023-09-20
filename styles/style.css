@@ -97,6 +97,13 @@ blockquote {
     list-style-type: none
 }
 
+#my_li1 {
+    list-style-type: none
+}
+
+#my_li2 {
+    list-style-type: none
+}
 .accent-span {
     display: block;
 }
